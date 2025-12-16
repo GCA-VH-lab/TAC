@@ -1,0 +1,222 @@
+>NP_216473.1 SecB-like chaperone [Mycobacterium tuberculosis H37Rv]
+MTDRTDAD---------------------------DLDLQRVG--------ARLAARAQI
+RDIRLLRTQAAVH----RAPKPAQGLTYDLEFEPAV-----DAD-PATISAFVVRISCHL
+RIQNQAADDDVKEGDTKDETQDV---A----TADFEFAALFDYHLQE-GEDDPT--EEE-
+---LTAY-AATTGRFALYPYIREYVYDLTGRLA-LPP-LTLEI-----LSRPMPVSPGAQ
+WPATRGTP---------------------------------
+>WP_232379678.1 hypothetical protein [Polyangium fumosum]
+MSTAKLAKK-----GKKAAPQRKESPP-SPEQAEPTAELQAVNAAALVARYVE-LNDVRL
+VRISAEMR---------SSIRNLLSSEYATVVGSPTHSFVF----DEAQSLIRVTVGLTV
+SLERE--PTASPTAETRESGNAL--V-----NIAAEFYLEYYLKVEP---PPIEMRDKL-
+---FGSF-AAVNAVYNAWPYLREVVQDTSGRLG-VPP-IVLPV-----YRVPRPGLATAS
+S-------D-------------------------------N
+>WP_125038103.1 hypothetical protein [Nocardioides sp. LS1]
+MAG-----EQLVADDQIELPSFEDPTPE--EYNAFVEALS--------------LGSVET
+HRVLAERVG--------PGESEEASFETRVGFMTG-----------ESSAHWRYDASVTI
+---------------VDSEGTALGTI-----EVAIVVTATYEDAAVS-----PS--PEV-
+---LARF-GGTTAALIAHPYLRETIATAAQRIG-FTG-VTLPM-----LKL---------
+-----------------------------------------
+>WP_182113128.1 protein-export chaperone SecB [Actinotalea sp. JY-7876]
+MSDGKTAQTA----SGSAVPR---------------------------------LTSVAL
+VQLSGERRAAGLAP------------ATKYNLDLAYYE-------EGSTYLYRLTGRGDL
+---------------TDAEGADY-------GHVEASVVATFES---------CGWSTEQ-
+---IESF-GQSTAMRVAYPYVREALATTASRLG-FAG-VMLPP-----LEVAAELAQGDV
+SPDPDVPADPS------------------------------
+>WP_126353682.1 hypothetical protein [Deinococcus radiophilus]
+MARAEEQA---------ALPTLD-----SATYNRFVAGVQ--------------PIRMEL
+GEVS-------------AQVQPSDTEQITLQVDSQFETR-CLQS-DAEARTFVVEAQLQL
+GF--------------LTEGGEE--VG----QFRCMYRMAYQS-VEE-----LS--EGV-
+---VDQF-VRRNAPLHVWPFMRELVLNLTQRFG-WAG-FMLPS-----FLIPPAVTDTQQ
+TVDSGAPVEGETEEKVQRKPAKPRGKKAKA-----------
+>WP_000003377.1 MULTISPECIES: protein-export chaperone SecB [Enterobacteriaceae]
+MSE----------------------------QNNTEMTFQ--------------IQRIYT
+KDISFEAPNAP------HVFQ--KDWQPEVKLDLDT-----ASS-QLADDVYEVVLRVTV
+TA--------------SLGEETA--F-----LCEVQQGGIFSI--AG-----IE--GTQ-
+---MAHC-LGAYCPNILFPYARECITSMVSRGT-FPQ-LNLAP-----VNFDALFMNYLQ
+QQAGEGTEEHQDA----------------------------
+>WP_013219135.1 protein-export chaperone SecB [Nitrosococcus watsonii]
+MAEDSTNQ-----------PT---------SEQGQQAQFA--------------IQKIYV
+KDLSFETPNSP------HIFNQAQEWKPELNLQLSN-----ENQ-RIADNIHEVVLSLTV
+TA--------------KLGDQTA--F-----LAEVHQAGIFML--NG-----YN--DES-
+---MGSL-LGSYCPNILFPFAREVVADLVTKGG-FPP-LLLAP-----INFDALYAQQQQ
+QRQSAEAAEVRH-----------------------------
+>WP_081816458.1 protein-export chaperone SecB [Fodinicurvata fenggangensis]
+MNDTTPGA----------APAGAN--PQDQQQGNKESPLV--------------VHVQYL
+KDLSFESPNA-------PTILTNMGQSPNLDIQLNV-----GAR-PLQDRIYEVVLNLKV
+TAKQ----------KTEEDERTA--F-----VVELEYAGVVTV-GQA-----VP--DER-
+---VEQV-LLIDCASMLFPFARRAVADTTREGG-FPP-VLINP-----VDFVQLYRQRKA
+REAAAKEQSGNGA-------AEGNGDDTQA-----------
+>WP_131310495.1 protein-export chaperone SecB [Siculibacillus lacustris]
+MTDASNAT----------PPT-------------EAPSLN--------------VLAQYV
+KDLSFENPNA-------PNSLAPQPEGPQITINVNV-----GAQ-PLSATEFEVELKITA
+QA-------------GGAAESVL--F-----NVELLYAGLFRI--QN-----VP--EQH-
+---LHPF-VLIECPRLLFPFARAILADATRNGG-FPP-LMLDP-----IDFVALYQQNAA
+QTAAAGAVN--------------------------------
+>WP_075534199.1 protein-export chaperone SecB [Candidatus Pelagibacter ubique]
+M------------------------------------SYK--------------IIGKYI
+KELNFNIPNT-------KTFYLLSKDIVNYKINIDI-----KSN-RIKHNIIEILTSLNL
+SP--------------TKENFEI--I-----NTKIIFATIIEL-END----KVE--KSQ-
+---LEKI-ILVDVPSKIYGELRRIFVSLFENSG-FKD-VKISE----NVDFLSLYNMKKS
+Q----------------------------------------
+>WP_000907422.1 protein-export chaperone SecB [Staphylococcus aureus]
+MAGIS-------------------------------------------------FINYIV
+DTMYYKTN---------PNFDAENTIEISIHEEVFA-----DIDISKEEDVAIITLQAKL
+----------------KETSDVP--F-----SFDASIVGYFEY-NSE---------ESD-
+GIQFKEF-LKTNAIAILFPYLRSIVSELTGKSNRFPS-YNMPV-----RNIAHEIAEKGN
+INITEG-----------------------------------
+>WP_160116340.1 protein-export chaperone SecB [Enterocloster clostridioformis]
+MMK--------------------------------KSDFQ--------------FSNPYL
+TKLNFKI----------NDDFDKDDYNGGMSIESEI-----TQEVITPGEEARVSLLLKL
+----------------GNESNIY-PF-----YFEIEMTALFKI-VNSNSSTQIN------
+-HSFSKL-INTNAPAMLLSYARPIISLITSQSG-MPA-FYIPF-----INFTSDKEKTP-
+-----------------------------------------
+>WP_026748864.1 protein-export chaperone SecB [Leptotrichia trevisanii]
+MDKIT-------------------------------------------------LTNYFV
+SEVSMKHL---------TDIQEKKDGKINLSV-------------GSNEEVGKVKLGIEI
+----------------SDEYK----------EIKISIVGDFEL-LDG-----LG--EQQ-
+---RKEL-LVTAGAEMLYEYVKSYVASMTMFDK-IPVMVNLPD-----VDFKKMYEDNNK
+K----------------------------------------
+>WP_167693928.1 protein-export chaperone SecB [Staphylococcus hyicus]
+MDTIME------------------------------------------------FKNFRL
+MNIELNT----------HNSKNNNNGKTQLRVNAGT---------TEINDDGEAQLEIEI
+NI--------------NEEGEDY---T---REIKVIVLGIFKF-PNQ-----PS--DYD-
+---LEEL-LKVNGTAILIPYIRSMISSLTSFDNSTEH-LLLPA-----INVNAMFNQRK-
+-----------------------------------------
+>WP_049538362.1 MULTISPECIES: protein-export chaperone SecB [Vibrio]
+M------------------------------------NLQ--------------LVSTKV
+EKLNLTQ----------SEPLDIEENDLSFKFGNAY--------SNESPDTFQVIFEMSL
+LL--------------TEDSN----A-----QLDVEYVALFKA-SEE-----ID--DDF-
+--KVSPF-PQVNAPAIAYPFLRAFLGTFLLNAG-YEP-VMLPS-----VNFQALYNESK-
+-----------------------------------------
+>WP_193703925.1 protein-export chaperone SecB [Tenacibaculum finnmarkense]
+M------------------------------------KIQ--------------LENWKV
+LKLNFTS----------NEEVNTKENSFDLKTGHFY--------PEDELDTFGIGFEIEI
+-----------------NDKR----F-----DLNIETVFMFKL-DKN-----IS--EEF-
+--KLSNF-SKINAPAIAFPYLRAYISNLTLQSG-FEP-IMLPS-----INFVNLAEDKK-
+-----------------------------------------
+>WP_111306198.1 MULTISPECIES: protein-export chaperone SecB [Pasteurellaceae]
+MSN-------------------------------KSMSLQ--------------LKKVSV
+QEIHLSKS---------KDELDPKENGFSLGVAIGI-----PDD-SQDSKLFAVTFKSEF
+----------------QIKEG----F-----ILKVEYQSIFES-NIP-----ID--KDF-
+--KQNKF-LTINAPAIAFPFFRAFIATFLTNSG-FEP-IILPS-----INFNKLNQKDEL
+D-------------------------------------MNE
+>WP_053886483.1 MULTISPECIES: protein-export chaperone SecB [Escherichia]
+M------------------------------------KFQ--------------LNKNQI
+EKLSIEH----------FINESSIKNSFSFSHTCKY--------DEEKNNEFIISFKFEL
+----------------TSDNG----F-----KLIFTHNFFFEC-DEP-----IT--EEF-
+--LQSHY-TSVNAPAIAYPYVRAFVATLLLNAG-LES-VLLPA-----VNFVEHAKSQDK
+-----------------------------------------
+>WP_217718575.1 protein-export chaperone SecB [Bacteroides thetaiotaomicron]
+MEEIN------------------------------KSEFR--------------FDGYLI
+KHSSIDIL---------------KEVNDGMELGISI-----IPSGVKHNEKFVLTLQVSV
+----------------TDKNGDF--------SVNLTTEGFFTF-KEN-----LD--INK-
+---LGTF-FTINAPALIFPYIRAYICMLTSLSG-AGS-IVLPT-----LNLIDVGKELSQ
+KIINN-------------------------------DIEAD
+>WP_112844288.1 hypothetical protein [Escherichia coli]
+M------------------------------------KIE--------------LISKKV
+ERLVMTRLE--------GDSTAKKTIKTTVNLNNEL-----YTN-VKDSKLFRVRYFASV
+----------------TIEGR----L-----EMDITYDFDFRS-EDD-----FS--HEM-
+---AKSYEVRSIAPNMAYPYIKTYAEQIILMSN-LGR-FTLPY-----FDFLANPMETNS
+NK---------------------------------------
+>WP_115370312.1 protein-export chaperone SecB [Proteus vulgaris]
+M------------------------------------KVK--------------ILYKTV
+HNLNLKNL---------EEGEVKQDNELRLTLATEI-----FHN-NKDATLVKFRYTVTT
+----------------VIKDE----V-----SVDLIYDFAFKS-EDE-----IT--ESF-
+--NESDT-ATVMIPNLAYPYIKSYIENILSISG-YKK-INLPY-----INFFEEPLKPVE
+-----------------------------------------
+>WP_248129370.1 protein-export chaperone SecB [Citrobacter koseri]
+M------------------------------------KFS--------------LSSMWV
+DSFSLTP----------TTKPNETGEEFTMNVESAV-----DFN-SVNKSEFRFSISIKL
+----------------HKNER----F-----IFNACQMAIVKF-DKE-----MS--EEE-
+--AQKTV-STADAAQYLYPYLRAFVISTLRLAG-YNN-VNLPV-----VIFQ--------
+-----------------------------------------
+>WP_032398796.1 MULTISPECIES: hypothetical protein [Lactococcus]
+MSLINNN-----------------------------------------------FLRINL
+VELKFDMIKD-------PIPDDKDSFSMGIKKQIKK-----VKEIDSEERVYITNVIQTL
+FLGD---DIDELRKEWDKDLKEV--LVNKSSYIYVNFEVVFKL-------ENLK-KEGD-
+---FTDD-VSDELLVLLEPYFKELVSNIFSRSS-FPT-PPIPH-----------------
+-------------------------------NYWRNDNEFE
+>WP_135368580.1 hypothetical protein [Levilactobacillus suantsaiihabitans]
+MIK-------------------------------NIVSIN--------------LRSVNM
+DDIQAAFNKYSK-----ENGLGSTPTEIQVKLATSVRGNGVSKK-NANRLSFFVNLDMSF
+GTHN------------EAEPDDI--------LGTIKTMYEIRVLVDD-YSEDLN--KKG-
+--NIEKLVPHEELLNIVEPYFRELIASLIDRTE-LSL-ATIPY-----------------
+-------------------------------HFW----ENQ
+>WP_155970936.1 hypothetical protein [Streptococcus ruminantium]
+MKIIEI------------------------------------------------INSISL
+EKFSFDL----------EKLRSNIEPELEVQVSISVDY---VEK-NSETNKFRARVTLSF
+NI--------------DKEIAVN--------VITISHIIEFSSNIDD---TEFDNENKQ-
+--------LSFALFEVTEPYIRHRINELINQTQ-LSV-FNLPY------HFWELANEDGE
+-----------------------------------------
+>WP_097278229.1 protein-export chaperone SecB [Caenispirillum bisanense]
+MT---------------------------------ASRLL--------------LEHYFV
+EELSVAANVD-------ADPAVFADWRPEPATERDY-----ASS-PDDPRLHQVRLTVTV
+GH--------------DDSGAAP--Y-----RVRLALRGIFRI-DPS-----VE--DKR-
+--LRDGL-LTNTAPSILYGAAREVVLATTARGP-FPP-VLLPA-----EVFPPEVLDDDA
+EPAPPPAEPSP--------PARPRRKRAKAS---------D
+>WP_011728187.1 SecB-like chaperone SecBL [Mycolicibacterium smegmatis]
+MIERDGAP--------------------------TFEDVQ------------ELLNRSEL
+TDVALYEHAG-------RRVDDAVDDEFSLQVLTRV-----------GDTEFEIRCKVTA
+----------------AGHGGQY--------LADAGAVFTLQS-AAK-----IE--EGT-
+---AREF-AEKVGVMAVYPYLRAAVSQSAASLG-LDR-PILPLLRAGGVKLTESMDSAED
+A----------------------------------------
+>WP_231205373.1 hypothetical protein [Schaalia sp. lx-260]
+MQTVEDFMT-------VGMPE---------------------------------IRRIYA
+YCLRAAMYEN-------GPDETIERGATNMTVGLQFKS-------VDDENLVLLRFSFDL
+KGR----------------------YW----NGEVDYVLEYEV-AEK-----MDVPNSV-
+---IEEF-ATRSAVMCVYPYVRSAVADLTSKLP-IPT-VTLPLKRPGELDFMRE------
+------------------------------------GILGE
+>WP_048680478.1 hypothetical protein [Kocuria sp. HSID16901]
+M-----------------------------------------------------PVQTFI
+EKVDLKVIRNIERVGKLHRIREDDERPSNLDVDFKL---------FEWGQYIELGFGLST
+----------------AEEGGSL--------EISVKVHVIYSN-PEE-----LNLSKED-
+---KEIF-LSDVVFMQVYPYLREGFSSMAQQLG-VGI-PTLGVLERGQYRIELDGTESGS
+F----------------------------------------
+>WP_055246658.1 MULTISPECIES: hypothetical protein [Coprococcus]
+MN-----------------------------------SFK--------------LVQHNV
+KSASFIEN---------KEKEKKKDIEVGVEGGILI-----PKD-LRKTKYLIVQLKLNL
+----------------GKSDERL--------YLTLETISRFEV-EKD--SDEIS--EEE-
+--------VRLKCFPVALSELRKTVKKVTEAYG-IPV-VDLPPFE----------EETES
+E----------------------------------------
+>WP_154277217.1 hypothetical protein [Faecalibacterium prausnitzii]
+MKELN------------------------------PWVLK--------------ETRYPI
+VDLKFDKWED-------TETKTKLYQKIEIKGNLET---------GEHPKQVRIRIDLEM
+----------------ESENKKI--------FAHIIQEEVYET-EDE-----PGWKNRK-
+--DAVET-VREAVIPNAYQNLKTYVRTLTKKAW-SKP-IVLKP----YEELTETLKPKDK
+E----------------------------------------
+>WP_122283809.1 MULTISPECIES: hypothetical protein [Pseudomonas]
+MN---------------------------------LYDVR--------------LTQVRL
+ADITATAVSEN------DEVEDKKGYNANLHVEIVH-----PGDGLAVGDFFEVKIAL--
+---------------LTTESKKP--------FLQMTMFGTFEI-LGEAALTDLG--HEN-
+--------APYELGSLLYPYIRNLTKPIIEYMG-ASA-VELPF-----APPAPPAKKKKA
+VRRKKPVTE--------------------------------
+>WP_213637088.1 hypothetical protein [Providencia rettgeri]
+MT--------------------------KSLIDTAKKKLN--------------LVNVVM
+KNGSFAINSDLKATFIEEEFGDGRNTETQTMCGVIQAYPLIAKDESQYAYIFEFEAAVRI
+LSK-------------DAEDNEIIIF-----MINGLFEVSYNS-KEK-----LR--EEE-
+---LKAF-ANAQIAFDAWPYWRSFVHESCSKMG-TPR-LRIGGYIP-NSN----------
+-----------------------------------------
+>WP_230180682.1 hypothetical protein [Aquabacterium sp. CECT 9606]
+MSK--------------SVPSVKQHEP-VIARKVRPAPLR--------------LKDLFF
+PRIQIKALVPDG-----DPINTFAPFLEDAELDFRF---------EIQKDGAEATAGMRI
+KSKP---------ADKDPTSGVA--Y-----EIDVEVFAVFVLESPE-----VT------
+-HPMAEYLRKFAAAAALLGAIREQVAFSTSRGP-WGT-FQVPIVS---MDLIVGGPPSTK
+ELVPAKKVVRKSA------------KTAKA--------LGK
+>WP_066218618.1 hypothetical protein [Balneola sp. EhC07]
+MEK--------------------------------KLSFG--------------LDSFKV
+KSFRFDSTEK-------TIRKDRINFDIQLNIKSKKGE-------RKCTVFFRIE-----
+----------------AKHGKQQ-PIS----LGVIETETIYNL-IGE-----IPYNEETD
+SIQLPND-LIVTFVSIGYSTTRGALLVKAQSTI-LAD-APLPIIDP--VKLWEHFKNQKS
+EKKSG------------------------------------
+>WP_106601004.1 hypothetical protein [Chitinophaga ginsengisoli]
+MPRFNII-----------------------------------------------IETLEI
+REYKAY-----------NPLEEKNTYSGELKLLASINV-------NAKQKNIAVVIKAEV
+YV--------------KGAGNSR--MA---PVGYIETVAVFSA-VNEWKKVRLG--KKQS
+EVDVDKE-LEDFLIDVSYNSTRGLLSERGRNDL-IGK-VILPI-----IDPADIKREKGQ
+KGGKN------------------------------------
+>WP_223929783.1 hypothetical protein [Prevotella lacticifex]
+MEKI---------------------------------PFK--------------LKFLHI
+DNFRSEE----------GKFQNGIEVKVNSGFSFSV---------DFKEHLVRCISEYSY
+---------------LQEETT----------FLKLELSAIFEI-EKSAFDSMIV--DNK-
+-LTLPVF-FLRYMATFSVGVARGVILTKAEGTV-IES-LFLPQ-----MNLVETINKDSV
+FELPKAGEQAE------------------------------
